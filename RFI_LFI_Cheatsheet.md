@@ -1,3 +1,7 @@
+This is not mine. I reformatted it to .md from the source below.
+https://blog.certcube.com/detailed-cheatsheet-lfi-rce-websheels/
+credit: Mr. X
+
 ## Basic LFI
 
 In the following examples, we include the ```/etc/passwd``` file, check the ```Directory & Path Traversal``` chapter for more interesting files.
